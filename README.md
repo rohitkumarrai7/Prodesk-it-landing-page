@@ -2,11 +2,11 @@
 
 A professional, pixel-perfect, responsive landing page for a fictional Digital Marketing Agency built as part of an internship assignment.
 
-![Prodesk IT Landing Page](assets/images/preview.png)
+![Prodesk IT Landing Page](https://ibb.co/84Bm9nNJ)
 
 ## 🌐 Live Demo
 
-[View Live Site](#) <!-- Add your deployed URL here -->
+[View Live Site](#) <https://prodesk-it-landing-page.vercel.app/>
 
 ---
 
@@ -98,8 +98,6 @@ prodesk-it/
 ---
 
 ## 👨‍💻 Author
-
-**Your Name**
 Rohit kumar Rai
 - GitHub: [https://github.com/rohitkumarrai7/Prodesk-it-landing-page]
 
@@ -111,3 +109,4 @@ This project is created for educational purposes as part of the Prodesk IT Inter
 
 © 2026 Prodesk IT. All Rights Reserved.
 #
+
