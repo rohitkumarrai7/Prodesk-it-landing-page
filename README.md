@@ -1,8 +1,6 @@
 # 🚀 Prodesk IT - Digital Marketing Agency Landing Page
 
-A professional, pixel-perfect, responsive landing page for a fictional Digital Marketing Agency built as part of an internship assignment.
-
-![Prodesk IT Landing Page](https://ibb.co/84Bm9nNJ)
+A professional, pixel-perfect, responsive landing page for a fictional Digital Marketing Agency built as part of an internship assignment
 
 ## 🌐 Live Demo
 
@@ -109,4 +107,5 @@ This project is created for educational purposes as part of the Prodesk IT Inter
 
 © 2026 Prodesk IT. All Rights Reserved.
 #
+
 
